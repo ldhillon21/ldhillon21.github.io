@@ -10,8 +10,11 @@ p:first-of-type {
 	color: green;
 	/*background: lightblue;*/
 }
-body{
+body.index{
 	background-color:  #00FFFF;
+}
+body.about{
+	background-color:  #33FF9C;
 }
 @media only screen and (max-width: 600px) {
   body {
