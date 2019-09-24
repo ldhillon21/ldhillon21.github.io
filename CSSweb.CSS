@@ -11,7 +11,7 @@ p:first-of-type {
 	background: lightblue;
 }*/
 body{
-	background-color:  #00FFFF;
+	background-color:  lightblue;
 }
 
 @media only screen and (max-width: 600px) {
