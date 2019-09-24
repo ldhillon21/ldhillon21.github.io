@@ -1,15 +1,15 @@
 /* style.css */
 
 /*https://github.com/mikeizbicki/cmc-csci040 */
-
+/*
 p.index {
 	color: rgb(255,0,0);
 }
 
 p:first-of-type {
 	color: green;
-	/*background: lightblue;*/
-}
+	background: lightblue;
+}*/
 body.index{
 	background-color:  #00FFFF;
 }
