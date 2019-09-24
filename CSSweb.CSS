@@ -62,15 +62,7 @@ li.menu:hover {
 	background: lightblue;
 }
 
-.mydiv {
-	/*background: lightblue;*/
-}
 
-div.menu {
-	float: left;
-	background: orange;
-	margin: 0px;
-}
 
 #title {
 	background: blue;
